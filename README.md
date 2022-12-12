@@ -1,8 +1,7 @@
 ![Header](https://github.com/AnatolyTyurin/anatolytyurin/blob/main/Ava.png)
 
 
-About me
-
+I'm software engineer
 
 122
 
