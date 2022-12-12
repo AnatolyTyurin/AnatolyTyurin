@@ -1,11 +1,11 @@
 ![Header](https://github.com/AnatolyTyurin/anatolytyurin/blob/main/Ava.png)
 
 
-## QA ENGINEER
+## **QA ENGINEER**
 
-## MY CV
+### MY CV
 
-## LANGUAGES AND TOOLS
+### LANGUAGES AND TOOLS
 ![Flutter](https://img.shields.io/badge/-postgreSQL-2b2a29?style=for-the-badge&logo=postgresql)
 ![Flutter](https://img.shields.io/badge/-github-2b2a29?style=for-the-badge&logo=github)
 ![Flutter](https://img.shields.io/badge/-postman-2b2a29?style=for-the-badge&logo=postman)
@@ -15,5 +15,12 @@
 ![Flutter](https://img.shields.io/badge/-draw.io-2b2a29?style=for-the-badge&logo=draw.io)
 ![Flutter](https://img.shields.io/badge/-git-2b2a29?style=for-the-badge&logo=git)
 
-## TESTING DOCUMENTATION
-![Draw.io_flowchart](https://drive.google.com/file/d/1yVtaPQ_sbCxXOkw-lQMY0OwU4ufybrJw/view?usp=sharing)
+## EXAMPLE OF MY TESTING DOCUMENTATION
+- [Draw.io_flowchart](https://drive.google.com/file/d/1yVtaPQ_sbCxXOkw-lQMY0OwU4ufybrJw/view?usp=sharing)
+
+
+___
+
+___
+
+___
