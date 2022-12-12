@@ -5,5 +5,5 @@ I'm QA engineer.
 
 My CV is here.
 
-                             Work porfolio
+                                                     WORK PORTFOLIO
 
