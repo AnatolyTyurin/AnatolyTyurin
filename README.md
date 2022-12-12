@@ -1,9 +1,9 @@
 ![Header](https://github.com/AnatolyTyurin/anatolytyurin/blob/main/Ava.png)
 
 
-I'M A QA ENGINEER
+QA ENGINEER
 
-MY CV IS HERE
+MY CV
 
 ### LANGUAGES AND TOOLS
 ![Flutter](https://img.shields.io/badge/-postgreSQL-2b2a29?style=for-the-badge&logo=postgresql)
@@ -14,6 +14,8 @@ MY CV IS HERE
 ![Flutter](https://img.shields.io/badge/-charles-2b2a29?style=for-the-badge&logo=charles)
 ![Flutter](https://img.shields.io/badge/-draw.io-2b2a29?style=for-the-badge&logo=draw.io)
 ![Flutter](https://img.shields.io/badge/-git-2b2a29?style=for-the-badge&logo=git)
-                                                         WORK PORTFOLIO
+
+
+                         WORK PORTFOLIO
 
 
