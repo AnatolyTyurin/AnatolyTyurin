@@ -1,7 +1,7 @@
 ![Header](https://github.com/AnatolyTyurin/anatolytyurin/blob/main/Ava.png)
 
 
-I'm software engineer
+I'm QA engineer.
 
 122
 
