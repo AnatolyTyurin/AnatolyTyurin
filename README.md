@@ -1,11 +1,11 @@
 ![Header](https://github.com/AnatolyTyurin/anatolytyurin/blob/main/Ava.png)
 
 
-QA ENGINEER
+## QA ENGINEER
 
-MY CV
+## MY CV
 
-### LANGUAGES AND TOOLS
+## LANGUAGES AND TOOLS
 ![Flutter](https://img.shields.io/badge/-postgreSQL-2b2a29?style=for-the-badge&logo=postgresql)
 ![Flutter](https://img.shields.io/badge/-github-2b2a29?style=for-the-badge&logo=github)
 ![Flutter](https://img.shields.io/badge/-postman-2b2a29?style=for-the-badge&logo=postman)
