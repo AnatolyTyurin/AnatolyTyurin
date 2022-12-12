@@ -3,10 +3,7 @@
 
 I'm QA engineer.
 
-122
+My CV is here.
 
-12123
+                             Work porfolio
 
-123123
-
-Follow me
