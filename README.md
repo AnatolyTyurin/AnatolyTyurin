@@ -20,8 +20,3 @@
 
 - [Checklist (smoke, regression, mobile features)](https://docs.google.com/spreadsheets/d/1wrqF5TcbheIxL-O2MaVtCDQZFJgpcQ7aVY0sGsbKB1I/edit?usp=share_link)
 - [Checklist (web forms_date)](https://docs.google.com/spreadsheets/d/1Rd6d3ku_iUEpu56yjYzme5dQSsTLy4a7dfEbLy_GE8w/edit?usp=share_link)
-___
-
-___
-
-___# Ksendzov_git
